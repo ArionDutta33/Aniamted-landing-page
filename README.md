@@ -1,4 +1,4 @@
 # Aniamted-landing-page
 An animated landing page
 <br>
-Used gsap
+Used gsap and locomotive js
